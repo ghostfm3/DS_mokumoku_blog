@@ -16,7 +16,7 @@ module.exports = {
       name: `DSもくもく会運営`,
       summary: `毎週金曜日 21:00~`,
     },
-    description: `読書感想文`,
+    description: `DSもくもく会Blog`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
   },
   plugins: [
