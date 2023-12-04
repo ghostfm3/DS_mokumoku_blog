@@ -1,0 +1,70 @@
+{
+  "name": "gatsby-starter-blog",
+  "private": true,
+  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "version": "0.1.0",
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/gatsbyjs/gatsby/issues"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@fontsource-variable/montserrat": "^5.0.4",
+    "@fontsource/merriweather": "^5.0.3",
+    "@gatsbyjs/reach-router": "^2.0.1",
+    "@material-ui/core": "^4.12.4",
+    "@material-ui/lab": "^4.0.0-alpha.61",
+    "@raae/gatsby-remark-oembed": "^0.3.3",
+    "gatsby": "^5.12.11",
+    "gatsby-awesome-pagination": "^0.3.8",
+    "gatsby-core-utils": "^4.12.1",
+    "gatsby-link": "^5.12.1",
+    "gatsby-paginate": "^1.1.1",
+    "gatsby-plugin-feed": "^2.5.15",
+    "gatsby-plugin-image": "^0.7.2",
+    "gatsby-plugin-manifest": "^5.12.3",
+    "gatsby-plugin-material-ui": "^4.1.0",
+    "gatsby-plugin-sharp": "^5.12.3",
+    "gatsby-react-router-scroll": "^6.12.0",
+    "gatsby-remark-copy-linked-files": "^2.10.0",
+    "gatsby-remark-images": "^7.12.3",
+    "gatsby-remark-link-card": "^1.0.3",
+    "gatsby-remark-prismjs": "^3.13.0",
+    "gatsby-remark-responsive-iframe": "^2.11.0",
+    "gatsby-remark-static-images": "^1.2.1",
+    "gatsby-source-filesystem": "^5.12.1",
+    "gatsby-transformer-remark": "^6.12.3",
+    "gatsby-transformer-sharp": "^5.12.3",
+    "gh-pages": "^5.0.0",
+    "github-markdown-css": "^5.2.0",
+    "prismjs": "^1.29.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.8"
+  },
+  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
+  "keywords": [
+    "gatsby"
+  ],
+  "license": "0BSD",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
+  },
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
+    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
+    "start": "gatsby develop",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+  },
+  "engines": {
+    "node": "18"
+  }
+}

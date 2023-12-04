@@ -1,0 +1,9 @@
+{
+    "build": {
+      "command": "npm install --legacy-peer-deps --force && npm run build",
+      "app_location": "/",
+      "api_location": "api",
+      "output_location": "public"
+    }
+  }
+  
