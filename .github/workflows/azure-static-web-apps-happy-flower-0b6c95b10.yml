@@ -44,3 +44,7 @@ jobs:
         with:
           azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN_HAPPY_FLOWER_0B6C95B10 }}
           action: "close"
+
+env:
+  NPM_CONFIG_FORCE: true
+  NPM_CONFIG_LEGACY_PEER_DEPS: true
