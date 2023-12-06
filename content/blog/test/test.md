@@ -114,9 +114,9 @@ DSもくもく会専用のブログ, または外部サイト(Qiitaやnoteなど
 
 長い内容になるor数式等を用いた説明が必要な場合はQiitaやnoteといった外部リソースを状況に応じて活用する。 
 
-DSもくもく会ブログリンク: https://happy-flower-0b6c95b10.4.azurestaticapps.net/ 
+- [DSもくもく会ブログリンク](https://happy-flower-0b6c95b10.4.azurestaticapps.net/)
 
-GitHub リポジトリ : https://github.com/ghostfm3/DS_mokumoku_blog 
+- [GitHub リポジトリ](https://github.com/ghostfm3/DS_mokumoku_blog)
   
 
 #### ■ スライド発表の振り返り 
