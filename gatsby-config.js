@@ -14,7 +14,7 @@ module.exports = {
     title: `データサイエンスもくもく会 ブログ`,
     author: {
       name: `DSもくもく会運営`,
-      summary: `毎週金曜日 21:00~`,
+      summary: `隔週 木曜日 21時より開催`,
     },
     description: `DSもくもく会Blog`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
