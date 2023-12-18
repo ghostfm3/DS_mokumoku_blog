@@ -77,7 +77,7 @@ SRシステムは非常に映像の解像度が荒いということもあり体
 
 例えば存在しない人をあたかも存在するように錯覚させられる。
 
-(参考：[SRシステムについて YouTube)](https://www.youtube.com/watch?v=zratzFg89QE&list=LL&index=18))
+`youtube:https://www.youtube.com/embed/zratzFg89QE`
 
 ---
 **Pan**「SRは虚構現実って言って現実に映し出された風景にリアルタイムで画像を合成する」
@@ -168,7 +168,7 @@ SRで得られる視覚と身体感覚のズレはまさにこの人間の仕組
 **Ghost** 「なるほどイメージできました。感覚を補填で言うと、そういう視覚的な錯覚とはちょっと違うんですけど、
 実は昔Youtubeかニコニコで3D録音で360度から音が聞こえてくる動画があって、それでハサミをチョキチョキする音が聞こえてくると実際に一瞬髪を切られてる感覚になりましたね。」
 
-(※参考 [3D sound "Holophonics" 　ホロフォニクス (Youtubeリンク)](https://www.youtube.com/watch?v=wT1XuB95qMk))
+`youtube:https://www.youtube.com/embed/wT1XuB95qMk`
 
 
 **Pan** 「あったあった。意外と人の五感っていい加減なものなのかもしれないね」

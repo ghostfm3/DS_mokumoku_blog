@@ -130,7 +130,7 @@ Social Fabrication Laboratory (慶応義塾大学SFC研究所)](https://www.kri.
 
 3Dプリンターは樹脂を素材とし、次々と樹脂を重ねて行くことにより造形を行なっていく。下記動画は実際に3Dプリンターを用いた造形の例である。見て頂ければ造形方法をイメージできるだろう。
 
-※参考：[Demon core Robot: Youtube](https://www.youtube.com/watch?v=jUnOf7ZEi_4)
+`youtube:https://www.youtube.com/embed/jUnOf7ZEi_4`
 
 上記の逆として`減算系`はブロックや樹脂の塊を削りだしたり切り出したりして造形していく機器があたり、レーザーカッターやミリングマシンといったものが該当する。
 
@@ -174,7 +174,7 @@ Social Fabrication Laboratory (慶応義塾大学SFC研究所)](https://www.kri.
 
 田中先生曰く実際に`3DFAX`が発売されるという。
 
-※参考: [AIO Robotics Fax Demo :Youtube](https://www.youtube.com/watch?v=ddvng2s-cy0&t=3s)
+`youtube:https://www.youtube.com/embed/ddvng2s-cy0`
 
 FAXのラディカルな所は向こうから勝手に送られてくるということが挙げられ、3DFAXになるとスキャンデータが転送先に送られて実際に家に帰ったら3Dプリンターからお土産みたいなものが大量に送られてきたみたいなことが可能になってしまうと田中先生は言う。
 
