@@ -4,6 +4,12 @@ date: "2023-12-20T20:30:32.169Z"
 tags: ["技術紹介","機械学習","画像処理"]
 description: SNSより技術紹介記事です。
 ---
+お疲れ様です。
+
+DSもくもく会運営部のS.Kです。
+
+今回は「3D Gaussian Splatting」について紹介します。
+
 # 3D Gaussian Splattingについて
 ## 紹介記事&Githubリンク
 - [3D Gaussian Splattingの使い方 (Windows環境構築)](https://lilea.net/lab/how-to-setup-3d-gaussian-splatting/?source=post_page-----273ce61200a8--------------------------------)
