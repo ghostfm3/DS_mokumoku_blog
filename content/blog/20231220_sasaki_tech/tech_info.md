@@ -21,7 +21,7 @@ description: SNSより技術紹介記事です。
 
 3D Gaussian Splattingは主にPythonで実装されており、PytorchやCUDAといった機械学習モデル構築やGPGPUライブラリーが使用されているようです。
 
-NeRFはレンダリング時にも機械学習を使用しているのに対し、3D Gaussian Splattingは3D空間をガウシアン([☞ガウス関数)](https://www.eng.kagawa-u.ac.jp/~tishii/Lab/Etc/gauss.html))の集合として定義し、レンダリング時にはあらかじめ機械学習で学習された各パラメータを使用することで高速なレンダリングを実現しています。
+NeRFはレンダリング時にも機械学習を使用しているのに対し、3D Gaussian Splattingは3D空間をガウシアン([☞ガウス関数](https://www.eng.kagawa-u.ac.jp/~tishii/Lab/Etc/gauss.html))の集合として定義し、レンダリング時にはあらかじめ機械学習で学習された各パラメータを使用することで高速なレンダリングを実現しています。
 
 詳細なNeRFとの違い、理論の概要は下記URLサイトに記載されておりますので参考にご覧ください。
 
