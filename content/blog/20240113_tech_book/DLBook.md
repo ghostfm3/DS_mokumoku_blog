@@ -12,9 +12,9 @@ DSもくもく会運営部のS.Kです。
 今回は技術書紹介になります。
 
 # 紹介本
->1.ゼロから作るDeepLearning2
->
->2.ゼロから作るDeepLearning5
+1.ゼロから作るDeepLearning2
+
+2.ゼロから作るDeepLearning5
 
 ## ゼロから作るDeepLearning2
 ### 書籍情報
@@ -52,9 +52,7 @@ DSもくもく会運営部のS.Kです。
 
 人気シリーズ待望の第5巻が今年の4月にリリースされます。
 
-ゼロから作るシリーズは刊行の前に公開レビューがされることがあり、
-
-この5巻についても昨年12月中旬の期間限定で実施されていました。
+ゼロから作るシリーズは刊行の前に公開レビューがされることがあり、この5巻についても昨年12月中旬の期間限定で実施されていました。
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">『ゼロから作るDeep Learning ❺ ―生成モデル編』公開レビュー中です。<br><br>残り 2週間 となりました。引き続きよろしくお願いします！<a href="https://t.co/sfErU8k5tp">https://t.co/sfErU8k5tp</a></p>&mdash; Koki Saitoh 斎藤康毅 (@SaitohKoki) <a href="https://twitter.com/SaitohKoki/status/1730868206280249533?ref_src=twsrc%5Etfw">December 2, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
