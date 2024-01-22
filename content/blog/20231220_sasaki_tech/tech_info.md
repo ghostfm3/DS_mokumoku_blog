@@ -12,8 +12,9 @@ DSもくもく会運営部のS.Kです。
 
 # 3D Gaussian Splattingについて
 ## 紹介記事&Githubリンク
-- [3D Gaussian Splattingの使い方 (Windows環境構築)](https://lilea.net/lab/how-to-setup-3d-gaussian-splatting/?source=post_page-----273ce61200a8--------------------------------)
-- [gaussian-splatting (Github リポジトリ)](https://github.com/graphdeco-inria/gaussian-splatting)
+[1. 3D Gaussian Splattingの使い方 (Windows環境構築)](https://lilea.net/lab/how-to-setup-3d-gaussian-splatting/?source=post_page-----273ce61200a8--------------------------------)
+
+[2. gaussian-splatting (Github リポジトリ)](https://github.com/graphdeco-inria/gaussian-splatting)
 
 ## 3D Gaussian Splattingとは?
 まずは下記をご覧ください。
@@ -31,12 +32,12 @@ NeRFはレンダリング時にも機械学習を使用しているのに対し�
 
 詳細なNeRFとの違い、理論の概要は下記URLサイトに記載されておりますので参考にご覧ください。
 
-- [3D Gaussian Splatting : 複数視点の画像から3D空間を再現する最新手法](https://medium.com/axinc/3d-gaussian-splatting-%E8%A4%87%E6%95%B0%E8%A6%96%E7%82%B9%E3%81%AE%E7%94%BB%E5%83%8F%E3%81%8B%E3%82%893d%E7%A9%BA%E9%96%93%E3%82%92%E5%86%8D%E7%8F%BE%E3%81%99%E3%82%8B%E6%9C%80%E6%96%B0%E6%89%8B%E6%B3%95-273ce61200a8)
+[参考：3D Gaussian Splatting : 複数視点の画像から3D空間を再現する最新手法](https://medium.com/axinc/3d-gaussian-splatting-%E8%A4%87%E6%95%B0%E8%A6%96%E7%82%B9%E3%81%AE%E7%94%BB%E5%83%8F%E3%81%8B%E3%82%893d%E7%A9%BA%E9%96%93%E3%82%92%E5%86%8D%E7%8F%BE%E3%81%99%E3%82%8B%E6%9C%80%E6%96%B0%E6%89%8B%E6%B3%95-273ce61200a8)
 
 ## 考察
 用途としては下記のような例が挙げられます。
 
-- [京都VR ～清水寺参道編～](https://lilea.net/lab/kyoto-vr/)
+[参考2：京都VR ～清水寺参道編～](https://lilea.net/lab/kyoto-vr/)
 
 上記プロジェクトはlileaさんが手がける京都の清水寺周辺の街並みを当技術を用いてVRデジタルアーカイブとして保存するものとなります。
 
